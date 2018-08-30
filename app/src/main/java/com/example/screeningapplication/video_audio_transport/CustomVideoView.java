@@ -1,4 +1,4 @@
-package com.example.screeningapplication.音视频传输;
+package com.example.screeningapplication.video_audio_transport;
 
 import android.content.Context;
 import android.util.AttributeSet;

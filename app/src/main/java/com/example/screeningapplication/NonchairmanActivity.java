@@ -23,9 +23,9 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.example.screeningapplication.add_play_video.PlayerActivity;
-import com.example.screeningapplication.音视频传输.ScreenRecord;
-import com.example.screeningapplication.音视频传输.TCPSocket;
-import com.example.screeningapplication.音视频传输.UdpSocket;
+import com.example.screeningapplication.video_audio_transport.ScreenRecord;
+import com.example.screeningapplication.video_audio_transport.TCPSocket;
+import com.example.screeningapplication.video_audio_transport.UdpSocket;
 
 public class NonchairmanActivity extends AppCompatActivity implements View.OnClickListener{
     private static final String TAG = "NonchairmanActivity";

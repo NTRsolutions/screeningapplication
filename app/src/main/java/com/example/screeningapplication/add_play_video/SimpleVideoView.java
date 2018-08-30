@@ -36,7 +36,7 @@ import android.widget.VideoView;
 import com.example.screeningapplication.ChairmanActivity;
 import com.example.screeningapplication.LogUtil;
 import com.example.screeningapplication.R;
-import com.example.screeningapplication.音视频传输.VoiceRTPPacket;
+import com.example.screeningapplication.video_audio_transport.VoiceRTPPacket;
 
 public class SimpleVideoView extends RelativeLayout implements OnClickListener{
     private static final String TAG = "SimpleVideoView";

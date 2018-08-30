@@ -1,10 +1,9 @@
-package com.example.screeningapplication.音视频传输;
+package com.example.screeningapplication.video_audio_transport;
 
 import android.util.Log;
 
 import com.example.screeningapplication.ChairmanActivity;
 import com.example.screeningapplication.LogUtil;
-import com.example.screeningapplication.LoginActivity;
 
 import java.io.IOException;
 import java.io.InputStream;

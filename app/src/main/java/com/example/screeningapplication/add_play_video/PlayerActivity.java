@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import com.example.screeningapplication.R;
-import com.example.screeningapplication.音视频传输.VoiceRTPPacket;
+import com.example.screeningapplication.video_audio_transport.VoiceRTPPacket;
 
 public class PlayerActivity extends AppCompatActivity {
     private static final String TAG = "PlayerActivity2";

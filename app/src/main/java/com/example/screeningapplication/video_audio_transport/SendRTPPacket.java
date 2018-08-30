@@ -1,6 +1,4 @@
-package com.example.screeningapplication.音视频传输;
-
-import android.util.Log;
+package com.example.screeningapplication.video_audio_transport;
 
 import java.io.IOException;
 
